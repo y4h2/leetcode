@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetcode/657. Robot Return to Origin.md",
+            "file": "notes/解法汇总.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/657. Robot Return to Origin.md",
+                "file": "notes/解法汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "d00cd99fac68bf87",
   "lastOpenFiles": [
+    "notes/解法汇总.md",
+    "leetcode/307. Range Sum Query - Mutable.md",
     "leetcode/657. Robot Return to Origin.md",
     "leetcode/90. Subsets II.md",
-    "leetcode/307. Range Sum Query - Mutable.md",
-    "notes/解法汇总.md",
     "leetcode/663. Equal Tree Partition.md",
     "leetcode/684. Redundant Connection.md",
     "leetcode/2293. Min Max Game.md",
